@@ -101,4 +101,3 @@ async def snk(ctx):
 
 
 
-bot.run("ODE0MjMwNDcyMjg0NTY5NjAw.YDa1OA.p4sQI8LskbgYQWslZJkRk8MRO9w")
